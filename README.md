@@ -1,5 +1,5 @@
-# Calculadora de Partidas Rankeadas
-Instruções para entrega
+# Instruções para entrega
+
  # 2️⃣ Calculadora de partidas Rankeadas
 **O Que deve ser utilizado**
 
